@@ -1,2 +1,2 @@
-# lxomusl.github.io
+# http://lxomusl.github.io
 My personal website
