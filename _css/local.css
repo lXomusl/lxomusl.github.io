@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+section {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+}
+
+fieldset {
+    border-radius: 2px;
+    border-color: #000000;
+}

@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 13pt;
+    color:#ff9100;
+}
+
+h4 {
+    text-align: center;
+    font-size: 12pt;
+}
+
+
+
+div#hotdog {
+    border-width: 2px;
+    border-style: solid;
+    border-color:#bc0000;
+    background-color: #ffffff;
+    height: 350px;
+    width: 200px;
+}
+
+img#cachorro-quente {
+    border-bottom: 2px solid #bc0000;
+}
+
+div#x-egg {
+    border-width: 2px;
+    border-style: solid;
+    border-color:#bc0000;
+    background-color: #ffffff;
+    height: 350px;
+    width: 200px;
+}
+
+img#x-ovo {
+    border-bottom: 2px solid #bc0000;
+}
+
+div#pizza-hot {
+    border-width: 2px;
+    border-style: solid;
+    border-color:#bc0000;
+    background-color: #ffffff;
+    height: 350px;
+    width: 200px;
+}
+
+img#pizza1 {
+    border-bottom: 2px solid #bc0000;
+}
+
+div#pizza-queijo {
+    border-width: 2px;
+    border-style: solid;
+    border-color:#bc0000;
+    background-color: #ffffff;
+    height: 350px;
+    width: 200px;
+}
+
+img#pizza2 {
+    border-bottom: 2px solid #bc0000;
+}
+
+div#pizza-calabresa {
+    border-style: solid;
+    border-color:#bc0000;
+    background-color: #ffffff;
+    height: 350px;
+    width: 200px;
+}
+
+img#pizza3 {
+    border-bottom: 2px solid #bc0000;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    color: #ff0000;
+} 

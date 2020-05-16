@@ -1,0 +1,16 @@
+section {
+    text-transform: uppercase;
+    font-family: 'Baloo tamma 2', sans-serif;
+}
+
+section img {
+    border: 2px solid #bc0000;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+ul {
+    list-style: none;
+}
